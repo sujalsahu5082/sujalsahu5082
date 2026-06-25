@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujal%20Sahu&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Data%20Analytics%20%7C%20AI%20Integration&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Sujal%20Sahu&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Data%20Analytics%20%7C%20AI%20Integration&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Data+Analytics+%26+AI+Enthusiast+%F0%9F%A7%A0;Building+intelligent+data-driven+systems+%F0%9F%9A%80;Open+to+Analytics+%26+SDE+Internships+%E2%9C%A8" alt="Typing SVG" />
 
