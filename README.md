@@ -19,13 +19,14 @@
 
 ```python
 sujal = {
-    "name"       : "Sujal Sahu",
-    "degree"     : "B.Tech CSE @ GITAM Deemed University (CGPA: 8.4/10)",
-    "graduating" : "May 2027",
-    "location"   : "Visakhapatnam, India",
-    "focus"      : ["Data Analytics", "AI Integration", "Full-Stack Dev"],
-    "seeking"    : "Analytics & SDE Internships",
-    "fun_fact"   : "I turn messy datasets into clear business decisions 📊"
+    "name"        : "Sujal Sahu",
+    "degree"      : "B.Tech CSE @ GITAM Deemed University",
+    "cgpa"        : "8.4 / 10",
+    "graduating"  : "May 2027",
+    "location"    : "Visakhapatnam, India",
+    "focus"       : ["Data Analytics", "AI Integration", "Full-Stack Dev"],
+    "seeking"     : "Analytics & SDE Internships",
+    "fun_fact"    : "I turn messy datasets into clear business decisions 📊",
 }
 ```
 
