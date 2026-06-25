@@ -17,18 +17,41 @@
 
 ### 👨‍💻 About Me
 
-```python
-sujal = {
-    "name"       : "Sujal Sahu",
-    "degree"     : "B.Tech CSE @ GITAM Deemed University",
-    "cgpa"       : "8.4 / 10",
-    "graduating" : "May 2027",
-    "location"   : "Visakhapatnam, India",
-    "focus"      : ["Data Analytics", "AI Integration", "Full-Stack Dev"],
-    "seeking"    : "Analytics & SDE Internships",
-    "fun_fact"   : "I turn messy datasets into clear business decisions 📊",
-}
-```
+<table>
+  <tr>
+    <td>🧑 <b>Name</b></td>
+    <td>Sujal Sahu</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Degree</b></td>
+    <td>B.Tech CSE @ GITAM Deemed University</td>
+  </tr>
+  <tr>
+    <td>📊 <b>CGPA</b></td>
+    <td>8.4 / 10</td>
+  </tr>
+  <tr>
+    <td>📅 <b>Graduating</b></td>
+    <td>May 2027</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Visakhapatnam, India</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Focus</b></td>
+    <td>Data Analytics · AI Integration · Full-Stack Dev</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Seeking</b></td>
+    <td>Analytics &amp; SDE Internships</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun Fact</b></td>
+    <td>I turn messy datasets into clear business decisions 📊</td>
+  </tr>
+</table>
+
 
 ---
 
