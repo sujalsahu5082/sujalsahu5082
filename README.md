@@ -184,8 +184,6 @@ sujal = {
 
 - 🏆 **Gemini 3 Hackathon Participant** — Built LectureIQ, AI-powered learning assistant
 - 🎓 **AI & Data Science Certification** — DRISHTI CPS, TIH, IIT Indore *(Oct 2025 – Jun 2026)*
-- 🥇 **1st Place, Code Crusade Hackathon** — GITAM University
-- 🏅 **Top 15, Smart India Hackathon** — Internal Round
 
 ---
 
