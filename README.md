@@ -211,7 +211,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujalsahu5082&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
