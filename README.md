@@ -154,8 +154,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalsahu5082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalsahu5082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=sujalsahu5082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujalsahu5082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" height="170"/>
 </div>
 
 <div align="center">
@@ -171,7 +171,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
 
 ---
