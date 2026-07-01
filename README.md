@@ -171,7 +171,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
 
 ---
