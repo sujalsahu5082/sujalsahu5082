@@ -153,14 +153,14 @@
 ### 📈 GitHub Overview & Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sujalsahu5082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&count_private=true&include_all_commits=true&cache_seconds=3600" height="175"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujalsahu5082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&cache_seconds=3600" height="175"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=sujalsahu5082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&count_private=true&include_all_commits=true&cache_seconds=1800" height="175"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujalsahu5082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&cache_seconds=1800" height="175"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sujalsahu5082&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=38BDF8&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8&cache_seconds=3600" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sujalsahu5082&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=38BDF8&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8&cache_seconds=1800" />
 </div>
 
 <br/>
@@ -174,7 +174,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-five.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy-five.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C" width="100%"/>
 </div>
 
 ---
