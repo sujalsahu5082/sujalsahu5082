@@ -154,7 +154,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sujalsahu5082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=sujalsahu5082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&count_private=true&include_all_commits=true" height="170"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujalsahu5082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" height="170"/>
 </div>
 
