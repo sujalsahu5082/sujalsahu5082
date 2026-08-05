@@ -159,15 +159,20 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujalsahu5082&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=38BDF8&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sujalsahu5082&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=38BDF8&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalsahu5082&bg_color=0D1117&color=6366F1&line=38BDF8&point=6366F1&area=true&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/6366F1/sujalsahu5082" alt="Sujal Sahu's Github Contribution Chart" width="100%"/>
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy-five.vercel.app/?username=sujalsahu5082&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
 
 ---
-
 ### 💼 Experience Highlights
 
 | Role | Company | Period |
